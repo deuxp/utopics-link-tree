@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Apercu Regular";
-  src: url('../../public/apercu_regular.otf');
+  src: url('../fonts/apercu_regular.otf');
 }
 
 body {
