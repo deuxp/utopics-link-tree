@@ -2,5 +2,7 @@
   background-color: rgb(32, 32, 175);
   margin: 0;
   padding: 1em;
-  padding-bottom: 2em;
+  padding-bottom: 4em;
+  background-size: cover;
+  mix-blend-mode: multiply;
 }
